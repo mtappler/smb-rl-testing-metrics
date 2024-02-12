@@ -1,0 +1,91 @@
+('SUTs/1-4/mario_net_1000.chkpt', 'SUTs/1-4/mario_net_8000.chkpt', 'SUTs/1-4/mario_net_15000.chkpt')
+Tested x-coordinate:88
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:101
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:170
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:0.6
+Conclusive tests:10
+Tested x-coordinate:713
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:833
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:1112
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:1247
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:0.6
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:0.6
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:0.6
+Conclusive tests:10
+Tested x-coordinate:1902
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:0.8
+Conclusive tests:10
+Tested x-coordinate:2090
+SUTs/1-4/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-4/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10

@@ -1,0 +1,131 @@
+('SUTs/1-1/mario_net_1000.chkpt', 'SUTs/1-1/mario_net_8000.chkpt', 'SUTs/1-1/mario_net_15000.chkpt')
+Tested x-coordinate:226
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:452
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:677
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+Tested x-coordinate:903
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:1129
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:0.7
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:0.8
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:0.8
+Conclusive tests:10
+Tested x-coordinate:1355
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:0.8
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+Tested x-coordinate:1580
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:0.7
+Conclusive tests:10
+Tested x-coordinate:1806
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:2032
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+Tested x-coordinate:2258
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:2484
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:2709
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:0.9
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+Tested x-coordinate:2935
+SUTs/1-1/mario_net_1000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_8000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
+SUTs/1-1/mario_net_15000.chkpt:
+Safety ratio:1.0
+Conclusive tests:10
